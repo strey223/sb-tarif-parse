@@ -1,0 +1,7 @@
+{
+    "name": "vendor/hello",
+    "description": "only parse",
+    "require": {
+        "curl/curl": "^2.2"
+    }
+}
